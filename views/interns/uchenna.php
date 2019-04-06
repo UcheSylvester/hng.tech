@@ -22,7 +22,7 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Hello! I am Uchenna, a Front End Web Developer and JavaScript programmer! I started programming in 2018 and it's been all fun ever since! I am interning with hotels.ng to challenge myself and improve my skills in web development</p>
+                        <p>Hello! I am Uchenna, a Front End Web Developer and JavaScript programer! I started programming in 2018 and it's been all fun ever since! I am interning with hotels.ng to challenge myself and improve my skills in web development</p>
                         <br />
                         <h6>Skills</h6>
                         <p>JavaScript | CSS | BOOTSTRAP</p>
